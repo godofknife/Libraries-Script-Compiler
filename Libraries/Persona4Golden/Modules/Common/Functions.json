@@ -1485,7 +1485,7 @@
   {
     "Index": "0x0065",
     "ReturnType": "void",
-    "Name": "FUNCTION_0065",
+    "Name": "DIFFICULTY_SELECTION",
     "Description": "",
     "Parameters": [
     ]
@@ -2045,7 +2045,7 @@
   {
     "Index": "0x0097",
     "ReturnType": "int",
-    "Name": "FUNCTION_0097",
+    "Name": "CONNECT_INTERNET_FEATURE",
     "Description": "Code function name: modeCustom____sub_8124483C",
     "Parameters": [
     ]
